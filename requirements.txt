@@ -1,0 +1,7 @@
+lxml
+pillow
+numpy
+pandas
+opencv-python
+torchvision
+torch

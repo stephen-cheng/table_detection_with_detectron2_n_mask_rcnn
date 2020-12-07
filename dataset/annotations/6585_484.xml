@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>6585_484.png</filename>
+	<path>/Users/stephen/Desktop/table_detection_with_detectron_mask_rcnn/dataset/images/6585_484.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3304</width>
+		<height>2550</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>table</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>266</xmin>
+			<ymin>380</ymin>
+			<xmax>2981</xmax>
+			<ymax>2125</ymax>
+		</bndbox>
+	</object>
+</annotation>
