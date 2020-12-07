@@ -37,4 +37,7 @@ python table_detect_train.py
 python table_detect_test.py
 ```
 
+The result looks like this:
+
+![](result/img_pred.png)
 
